@@ -1,0 +1,1 @@
+print("Load data into warehouse or database for pipeline processing.")

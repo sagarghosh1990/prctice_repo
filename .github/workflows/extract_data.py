@@ -1,0 +1,1 @@
+print("Extract data from the database/api and save it to a file.")
